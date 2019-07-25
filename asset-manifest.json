@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonsRob/static/css/main.03d9cc94.chunk.css",
+    "main.js": "/MonsRob/static/js/main.03e53a8a.chunk.js",
+    "main.js.map": "/MonsRob/static/js/main.03e53a8a.chunk.js.map",
+    "runtime~main.js": "/MonsRob/static/js/runtime~main.7e5f300a.js",
+    "runtime~main.js.map": "/MonsRob/static/js/runtime~main.7e5f300a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/MonsRob/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/MonsRob/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/MonsRob/index.html",
+    "precache-manifest.8697a01deb1383efd58213e4f6c4d98a.js": "/MonsRob/precache-manifest.8697a01deb1383efd58213e4f6c4d98a.js",
+    "service-worker.js": "/MonsRob/service-worker.js",
+    "static/css/main.03d9cc94.chunk.css.map": "/MonsRob/static/css/main.03d9cc94.chunk.css.map"
+  }
+}
